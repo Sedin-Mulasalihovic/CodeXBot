@@ -16,4 +16,4 @@ client.on('messageCreate', message => {
 });
 
 // Bot mit Token einloggen
-client.login('MTQwMjQ0MzI5NzkxNzYzNjYyOA.GN_Vtc.N9u0Z6CEOhCRWMTXgtoj4szdFosHSMg5rBQk4o');
+client.login('yourToken');
